@@ -14,7 +14,7 @@ GEM
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
     pkg-config (1.1.7)
-    rake (10.4.2)
+    rake (13.0.1)
     rubyzip (1.2.0)
     xml-simple (1.1.5)
 
@@ -24,7 +24,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (>= 1.6)
   minitest (~> 5.4)
-  rake (~> 10.0)
+  rake (~> 13.0)
   sablon!
   xml-simple
 
